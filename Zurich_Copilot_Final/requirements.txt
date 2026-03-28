@@ -3,3 +3,9 @@ pdfplumber
 pandas
 plotly
 kaleido
+streamlit
+pdfplumber
+numpy-financial
+plotly
+kaleido
+fpdf
