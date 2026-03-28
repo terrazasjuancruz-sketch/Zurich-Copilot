@@ -1,12 +1,7 @@
 streamlit
 pdfplumber
 pandas
-plotly
-kaleido
-streamlit
-pdfplumber
 numpy-financial
 plotly
-kaleido
 fpdf
 kaleido==0.1.0.post1
