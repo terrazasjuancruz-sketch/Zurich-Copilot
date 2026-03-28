@@ -1,0 +1,73 @@
+{
+    "Cliente": {
+        "Nombre": "Joel Henrique Castillo Boada",
+        "Edad": 48
+    },
+    "Producto": {
+        "Nombre": "Zurich Invest Future",
+        "Fecha_Proyeccion": "04/02/2025"
+    },
+    "Inversion": {
+        "Prima_Regular": "VRU$S 372,00",
+        "Aporte_Mensual": 372.0,
+        "Incremento_Automatico": "5,00%",
+        "Tipo_Cambio_Referencia": "VRU$S 1.280,41"
+    },
+    "Escenarios": [
+        {
+            "Año": 1,
+            "Escenario_Optimista": "2.575",
+            "Edad_Proyectada": 49
+        },
+        {
+            "Año": 2,
+            "Escenario_Optimista": "6.548",
+            "Edad_Proyectada": 50
+        },
+        {
+            "Año": 3,
+            "Escenario_Optimista": "11.550",
+            "Edad_Proyectada": 51
+        },
+        {
+            "Año": 4,
+            "Escenario_Optimista": "17.184",
+            "Edad_Proyectada": 52
+        },
+        {
+            "Año": 5,
+            "Escenario_Optimista": "23.454",
+            "Edad_Proyectada": 53
+        },
+        {
+            "Año": 6,
+            "Escenario_Optimista": "30.419",
+            "Edad_Proyectada": 54
+        },
+        {
+            "Año": 7,
+            "Escenario_Optimista": "37.940",
+            "Edad_Proyectada": 55
+        },
+        {
+            "Año": 8,
+            "Escenario_Optimista": "45.999",
+            "Edad_Proyectada": 56
+        },
+        {
+            "Año": 9,
+            "Escenario_Optimista": "54.612",
+            "Edad_Proyectada": 57
+        },
+        {
+            "Año": 10,
+            "Escenario_Optimista": "63.593",
+            "Edad_Proyectada": 58
+        },
+        {
+            "Año": 11,
+            "Escenario_Optimista": "73.544",
+            "Edad_Proyectada": 59
+        }
+    ]
+}

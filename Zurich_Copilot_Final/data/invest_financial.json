@@ -1,0 +1,96 @@
+{
+    "Resultados_Anuales": [
+        {
+            "Año": 1,
+            "Edad": 49,
+            "Prima_Anual": 4464.0,
+            "Acumulado_Invertido": 4464.0,
+            "Valor_Rescate_Optimista": 2575.0,
+            "Ganancia_Neta": -1889.0
+        },
+        {
+            "Año": 2,
+            "Edad": 50,
+            "Prima_Anual": 4687.2,
+            "Acumulado_Invertido": 9151.2,
+            "Valor_Rescate_Optimista": 6548.0,
+            "Ganancia_Neta": -2603.2
+        },
+        {
+            "Año": 3,
+            "Edad": 51,
+            "Prima_Anual": 4921.56,
+            "Acumulado_Invertido": 14072.76,
+            "Valor_Rescate_Optimista": 11550.0,
+            "Ganancia_Neta": -2522.76
+        },
+        {
+            "Año": 4,
+            "Edad": 52,
+            "Prima_Anual": 5167.64,
+            "Acumulado_Invertido": 19240.4,
+            "Valor_Rescate_Optimista": 17184.0,
+            "Ganancia_Neta": -2056.4
+        },
+        {
+            "Año": 5,
+            "Edad": 53,
+            "Prima_Anual": 5426.02,
+            "Acumulado_Invertido": 24666.42,
+            "Valor_Rescate_Optimista": 23454.0,
+            "Ganancia_Neta": -1212.42
+        },
+        {
+            "Año": 6,
+            "Edad": 54,
+            "Prima_Anual": 5426.02,
+            "Acumulado_Invertido": 30092.44,
+            "Valor_Rescate_Optimista": 30419.0,
+            "Ganancia_Neta": 326.56
+        },
+        {
+            "Año": 7,
+            "Edad": 55,
+            "Prima_Anual": 5426.02,
+            "Acumulado_Invertido": 35518.46,
+            "Valor_Rescate_Optimista": 37940.0,
+            "Ganancia_Neta": 2421.54
+        },
+        {
+            "Año": 8,
+            "Edad": 56,
+            "Prima_Anual": 5426.02,
+            "Acumulado_Invertido": 40944.48,
+            "Valor_Rescate_Optimista": 45999.0,
+            "Ganancia_Neta": 5054.52
+        },
+        {
+            "Año": 9,
+            "Edad": 57,
+            "Prima_Anual": 5426.02,
+            "Acumulado_Invertido": 46370.5,
+            "Valor_Rescate_Optimista": 54612.0,
+            "Ganancia_Neta": 8241.5
+        },
+        {
+            "Año": 10,
+            "Edad": 58,
+            "Prima_Anual": 5426.02,
+            "Acumulado_Invertido": 51796.52,
+            "Valor_Rescate_Optimista": 63593.0,
+            "Ganancia_Neta": 11796.48
+        },
+        {
+            "Año": 11,
+            "Edad": 59,
+            "Prima_Anual": 5426.02,
+            "Acumulado_Invertido": 57222.54,
+            "Valor_Rescate_Optimista": 73544.0,
+            "Ganancia_Neta": 16321.46
+        }
+    ],
+    "Resumen": {
+        "TIR_Final_Porcentaje": 4.66,
+        "Anio_Break_Even": 6
+    }
+}
